@@ -1,0 +1,913 @@
+comic_id, title, image_url
+1,Monster,https://cdn.myanimelist.net/images/manga/3/54525.jpg
+2,Berserk,https://cdn.myanimelist.net/images/manga/1/157897.jpg
+3,20th Century Boys,https://cdn.myanimelist.net/images/manga/1/54437.jpg
+4,Yokohama Kaidashi Kikou,https://cdn.myanimelist.net/images/manga/1/171813.jpg
+7,Hajime no Ippo,https://cdn.myanimelist.net/images/manga/2/250313.jpg
+8,Full Moon wo Sagashite,https://cdn.myanimelist.net/images/manga/3/175970.jpg
+9,Tsubasa: RESERVoir CHRoNiCLE,https://cdn.myanimelist.net/images/manga/2/27076.jpg
+10,xxxHOLiC,https://cdn.myanimelist.net/images/manga/3/217533.jpg
+11,Naruto,https://cdn.myanimelist.net/images/manga/3/117681.jpg
+12,Bleach,https://cdn.myanimelist.net/images/manga/2/180089.jpg
+13,One Piece,https://cdn.myanimelist.net/images/manga/3/55539.jpg
+14,Rave,https://cdn.myanimelist.net/images/manga/5/986.jpg
+15,Mahou Sensei Negima!,https://cdn.myanimelist.net/images/manga/1/51855.jpg
+16,Love Hina,https://cdn.myanimelist.net/images/manga/2/52139.jpg
+17,Kareshi Kanojo no Jijou,https://cdn.myanimelist.net/images/manga/4/168938.jpg
+18,Kodomo no Omocha,https://cdn.myanimelist.net/images/manga/1/159410.jpg
+19,GetBackers,https://cdn.myanimelist.net/images/manga/1/169369.jpg
+20,Hikaru no Go,https://cdn.myanimelist.net/images/manga/2/170574.jpg
+21,Death Note,https://cdn.myanimelist.net/images/manga/2/54453.jpg
+22,Rurouni Kenshin: Meiji Kenkaku Romantan,https://cdn.myanimelist.net/images/manga/2/127583.jpg
+24,D.Gray-man,https://cdn.myanimelist.net/images/manga/3/28084.jpg
+25,Fullmetal Alchemist,https://cdn.myanimelist.net/images/manga/3/243675.jpg
+27,X,https://cdn.myanimelist.net/images/manga/3/10698.jpg
+29,Paradise Kiss,https://cdn.myanimelist.net/images/manga/5/165919.jpg
+30,Ouran Koukou Host Club,https://cdn.myanimelist.net/images/manga/5/19240.jpg
+32,666 Satan,https://cdn.myanimelist.net/images/manga/3/511.jpg
+36,Kamikaze Kaitou Jeanne,https://cdn.myanimelist.net/images/manga/4/175801.jpg
+38,+Anima,https://cdn.myanimelist.net/images/manga/2/178178.jpg
+40,Black Cat,https://cdn.myanimelist.net/images/manga/2/186071.jpg
+42,Dragon Ball,https://cdn.myanimelist.net/images/manga/2/54545.jpg
+44,Gintama,https://cdn.myanimelist.net/images/manga/1/143121.jpg
+48,Pretty Face,https://cdn.myanimelist.net/images/manga/1/123699.jpg
+50,Shaman King,https://cdn.myanimelist.net/images/manga/1/57607.jpg
+53,Yuu☆Yuu☆Hakusho,https://cdn.myanimelist.net/images/manga/3/250027.jpg
+55,Aishiteruze Baby★★,https://cdn.myanimelist.net/images/manga/1/166559.jpg
+57,Hanazakari no Kimitachi e,https://cdn.myanimelist.net/images/manga/2/186895.jpg
+71,Zettai Kareshi.,https://cdn.myanimelist.net/images/manga/1/185981.jpg
+73,Tenjou Tenge,https://cdn.myanimelist.net/images/manga/3/57219.jpg
+75,Ai yori Aoshi,https://cdn.myanimelist.net/images/manga/3/184631.jpg
+79,Sora wa Akai Kawa no Hotori,https://cdn.myanimelist.net/images/manga/4/162632.jpg
+81,Aria,https://cdn.myanimelist.net/images/manga/2/202644.jpg
+83,Ayashi no Ceres,https://cdn.myanimelist.net/images/manga/3/160959.jpg
+85,Azumanga Daioh,https://cdn.myanimelist.net/images/manga/2/56373.jpg
+88,Angel/Dust,https://cdn.myanimelist.net/images/manga/1/179773.jpg
+90,Loveless,https://cdn.myanimelist.net/images/manga/2/171051.jpg
+92,Bishoujo Senshi Sailor Moon,https://cdn.myanimelist.net/images/manga/1/126449.jpg
+94,D.N.Angel,https://cdn.myanimelist.net/images/manga/2/145023.jpg
+99,Zombie-Loan,https://cdn.myanimelist.net/images/manga/3/183676.jpg
+101,Shugo Chara!,https://cdn.myanimelist.net/images/manga/2/135293.jpg
+105,Kekkaishi,https://cdn.myanimelist.net/images/manga/2/62941.jpg
+107,Chobits,https://cdn.myanimelist.net/images/manga/3/164969.jpg
+109,Wish,https://cdn.myanimelist.net/images/manga/4/17942.jpg
+118,Kobato.,https://cdn.myanimelist.net/images/manga/2/154345.jpg
+128,Petshop of Horrors,https://cdn.myanimelist.net/images/manga/5/212566.jpg
+134,MÄR,https://cdn.myanimelist.net/images/manga/1/165744.jpg
+142,Battle Royale,https://cdn.myanimelist.net/images/manga/1/53387.jpg
+157,Imadoki!,https://cdn.myanimelist.net/images/manga/3/82696.jpg
+160,School Rumble,https://cdn.myanimelist.net/images/manga/3/5267.jpg
+165,Cherry Juice,https://cdn.myanimelist.net/images/manga/2/164439.jpg
+178,Bokutachi wa Asu ni Mukatte Ikiru no da,https://cdn.myanimelist.net/images/manga/1/169822.jpg
+229,Dragon Head,https://cdn.myanimelist.net/images/manga/1/196300.jpg
+249,Kakumei no Hi,https://cdn.myanimelist.net/images/manga/4/150107.jpg
+284,Little Butterfly,https://cdn.myanimelist.net/images/manga/4/25450.jpg
+318,Futari Ecchi,https://cdn.myanimelist.net/images/manga/3/50533.jpg
+320,Gakuen Alice,https://cdn.myanimelist.net/images/manga/1/190844.jpg
+332,Gravitation,https://cdn.myanimelist.net/images/manga/2/112343.jpg
+336,GTO,https://cdn.myanimelist.net/images/manga/2/172982.jpg
+338,Chrno Crusade,https://cdn.myanimelist.net/images/manga/2/178875.jpg
+348,Genshiken,https://cdn.myanimelist.net/images/manga/3/161681.jpg
+366,Hoshi no Koe,https://cdn.myanimelist.net/images/manga/2/130253.jpg
+375,Initial D,https://cdn.myanimelist.net/images/manga/2/186990.jpg
+392,Kimi wa Pet,https://cdn.myanimelist.net/images/manga/3/165611.jpg
+396,Kingdom Hearts,https://cdn.myanimelist.net/images/manga/2/197189.jpg
+401,Kiseijuu,https://cdn.myanimelist.net/images/manga/2/188928.jpg
+407,Life,https://cdn.myanimelist.net/images/manga/3/127497.jpg
+411,Kitchen no Ohimesama,https://cdn.myanimelist.net/images/manga/5/112513.jpg
+418,Mushishi,https://cdn.myanimelist.net/images/manga/2/159514.jpg
+422,Yamato Nadeshiko Shichihenge♥,https://cdn.myanimelist.net/images/manga/2/173084.jpg
+436,Uzumaki,https://cdn.myanimelist.net/images/manga/3/185972.jpg
+444,Bad Company,https://cdn.myanimelist.net/images/manga/3/18566.jpg
+446,Aa! Megami-sama!,https://cdn.myanimelist.net/images/manga/2/58483.jpg
+447,Oretama,https://cdn.myanimelist.net/images/manga/2/53187.jpg
+465,NOiSE,https://cdn.myanimelist.net/images/manga/1/177551.jpg
+475,Peach Girl,https://cdn.myanimelist.net/images/manga/1/181872.jpg
+564,Gantz,https://cdn.myanimelist.net/images/manga/4/157936.jpg
+582,Kodomo no Jikan,https://cdn.myanimelist.net/images/manga/1/62557.jpg
+584,Mirai Nikki,https://cdn.myanimelist.net/images/manga/5/16174.jpg
+591,Koukou Debut,https://cdn.myanimelist.net/images/manga/5/112439.jpg
+595,Id,https://cdn.myanimelist.net/images/manga/1/59063.jpg
+598,Fairy Tail,https://cdn.myanimelist.net/images/manga/3/198604.jpg
+606,Boku ni Natta Watashi,https://cdn.myanimelist.net/images/manga/1/20745.jpg
+608,Gokujou no Koibito,https://cdn.myanimelist.net/images/manga/3/27150.jpg
+610,Skip Beat!,https://cdn.myanimelist.net/images/manga/2/26110.jpg
+614,Blue Dragon: RalΩGrado,https://cdn.myanimelist.net/images/manga/2/56223.jpg
+616,Mx0,https://cdn.myanimelist.net/images/manga/2/55903.jpg
+618,Vampire Knight,https://cdn.myanimelist.net/images/manga/1/167748.jpg
+619,Uwasa no Midori-kun!!,https://cdn.myanimelist.net/images/manga/3/174196.jpg
+625,Gakuyaura Ouji,https://cdn.myanimelist.net/images/manga/2/185823.jpg
+628,Bijo ga Yajuu,https://cdn.myanimelist.net/images/manga/1/201071.jpg
+633,Beauty Pop,https://cdn.myanimelist.net/images/manga/2/9226.jpg
+635,God Child,https://cdn.myanimelist.net/images/manga/1/160521.jpg
+642,Vinland Saga,https://cdn.myanimelist.net/images/manga/2/188925.jpg
+645,H³ School,https://cdn.myanimelist.net/images/manga/1/172987.jpg
+647,Hot Gimmick,https://cdn.myanimelist.net/images/manga/2/142813.jpg
+648,Dogs: Bullets & Carnage,https://cdn.myanimelist.net/images/manga/2/232296.jpg
+656,Vagabond,https://cdn.myanimelist.net/images/manga/2/181787.jpg
+658,Blade of the Immortal,https://cdn.myanimelist.net/images/manga/1/157919.jpg
+661,Sayonara Zetsubou Sensei,https://cdn.myanimelist.net/images/manga/3/156519.jpg
+664,Akira,https://cdn.myanimelist.net/images/manga/2/157929.jpg
+670,Bokurano,https://cdn.myanimelist.net/images/manga/1/57107.jpg
+674,Majin Tantei Nougami Neuro,https://cdn.myanimelist.net/images/manga/1/186638.jpg
+677,Akuma na Eros,https://cdn.myanimelist.net/images/manga/1/78909.jpg
+678,Kaikan♥Phrase,https://cdn.myanimelist.net/images/manga/2/81.jpg
+683,DNA²: Dokoka de Nakushita Aitsu no Aitsu,https://cdn.myanimelist.net/images/manga/1/177761.jpg
+684,Haou♥Airen,https://cdn.myanimelist.net/images/manga/1/92347.jpg
+686,Atashi wa Bambi,https://cdn.myanimelist.net/images/manga/2/175967.jpg
+689,Fairy Cube,https://cdn.myanimelist.net/images/manga/2/197597.jpg
+697,Magic Knight Rayearth 2,https://cdn.myanimelist.net/images/manga/5/157705.jpg
+703,Trigun,https://cdn.myanimelist.net/images/manga/3/153055.jpg
+705,Shingetsutan Tsukihime,https://cdn.myanimelist.net/images/manga/1/147479.jpg
+735,Black Lagoon,https://cdn.myanimelist.net/images/manga/1/227037.jpg
+738,Otaku no Musume-san,https://cdn.myanimelist.net/images/manga/3/50389.jpg
+745,Pluto,https://cdn.myanimelist.net/images/manga/2/56177.jpg
+747,Blood+,https://cdn.myanimelist.net/images/manga/1/54703.jpg
+755,Video Girl Ai,https://cdn.myanimelist.net/images/manga/2/185816.jpg
+763,Lilim Kiss,https://cdn.myanimelist.net/images/manga/2/53199.jpg
+765,Junjou Romantica,https://cdn.myanimelist.net/images/manga/5/206960.jpg
+770,Gunnm: Last Order,https://cdn.myanimelist.net/images/manga/2/145645.jpg
+771,Crimson Spell,https://cdn.myanimelist.net/images/manga/3/171499.jpg
+775,Haru wo Daiteita,https://cdn.myanimelist.net/images/manga/3/195851.jpg
+801,CUT,https://cdn.myanimelist.net/images/manga/1/31098.jpg
+813,Kimi ga Koi ni Ochiru,https://cdn.myanimelist.net/images/manga/1/209.jpg
+843,Curry naru Shokutaku,https://cdn.myanimelist.net/images/manga/4/3374.jpg
+878,Otomen,https://cdn.myanimelist.net/images/manga/2/6303.jpg
+885,Hakushaku Cain Series,https://cdn.myanimelist.net/images/manga/3/160529.jpg
+888,Tsuki no Shippo,https://cdn.myanimelist.net/images/manga/3/160615.jpg
+892,Sono Yubi dake ga Shitteiru,https://cdn.myanimelist.net/images/manga/5/1875.jpg
+893,Mahou Tsukai Kurohime,https://cdn.myanimelist.net/images/manga/2/143957.jpg
+895,Full Metal Panic! Sigma,https://cdn.myanimelist.net/images/manga/1/55583.jpg
+900,Akane-chan Overdrive,https://cdn.myanimelist.net/images/manga/1/58513.jpg
+908,Soul Eater,https://cdn.myanimelist.net/images/manga/1/159808.jpg
+929,Fushigi Yuugi: Genbu Kaiden,https://cdn.myanimelist.net/images/manga/3/32088.jpg
+932,Koroshiya 1,https://cdn.myanimelist.net/images/manga/3/174206.jpg
+933,Elfen Lied,https://cdn.myanimelist.net/images/manga/2/313.jpg
+958,Goth,https://cdn.myanimelist.net/images/manga/1/173681.jpg
+966,Me~teru no Kimochi,https://cdn.myanimelist.net/images/manga/2/204761.jpg
+974,Basara,https://cdn.myanimelist.net/images/manga/1/185359.jpg
+982,Kurokami,https://cdn.myanimelist.net/images/manga/1/196144.jpg
+988,Shijou Saikyou no Deshi Kenichi,https://cdn.myanimelist.net/images/manga/2/169883.jpg
+989,Empty Heart: Itsuwari no Koi Dakara,https://cdn.myanimelist.net/images/manga/4/220605.jpg
+1017,Bond(z),https://cdn.myanimelist.net/images/manga/1/6150.jpg
+1023,Koukaku Kidoutai: The Ghost in the Shell,https://cdn.myanimelist.net/images/manga/2/155733.jpg
+1032,Doraemon,https://cdn.myanimelist.net/images/manga/2/41460.jpg
+1061,Detective Conan,https://cdn.myanimelist.net/images/manga/1/97267.jpg
+1079,Goong,https://cdn.myanimelist.net/images/manga/1/23572.jpg
+1101,Akumetsu,https://cdn.myanimelist.net/images/manga/2/183734.jpg
+1110,Shiawase Kissa 3-choume,https://cdn.myanimelist.net/images/manga/2/749.jpg
+1113,I.O.N,https://cdn.myanimelist.net/images/manga/2/17076.jpg
+1121,Unbalance x2,https://cdn.myanimelist.net/images/manga/1/159439.jpg
+1131,Freesia,https://cdn.myanimelist.net/images/manga/2/16481.jpg
+1133,Dorohedoro,https://cdn.myanimelist.net/images/manga/2/143111.jpg
+1147,Boku no Futatsu no Tsubasa,https://cdn.myanimelist.net/images/manga/3/826.jpg
+1149,Hokuto no Ken,https://cdn.myanimelist.net/images/manga/3/830.jpg
+1158,"Densha Otoko: Net Hatsu, Kakueki Teisha no Love Story",https://cdn.myanimelist.net/images/manga/1/48231.jpg
+1162,Bitter Virgin,https://cdn.myanimelist.net/images/manga/2/55379.jpg
+1191,Wanted,https://cdn.myanimelist.net/images/manga/2/165150.jpg
+1194,Ai-Ren,https://cdn.myanimelist.net/images/manga/3/54109.jpg
+1200,Dash!,https://cdn.myanimelist.net/images/manga/1/5904.jpg
+1202,Manga Mitai na Koi Shitai!,https://cdn.myanimelist.net/images/manga/3/9924.jpg
+1217,Cross Over,https://cdn.myanimelist.net/images/manga/3/56635.jpg
+1224,3-gatsu no Lion,https://cdn.myanimelist.net/images/manga/1/52281.jpg
+1242,Good Morning Call,https://cdn.myanimelist.net/images/manga/3/185191.jpg
+1250,Deep Love: Ayu no Monogatari,https://cdn.myanimelist.net/images/manga/2/1007.jpg
+1257,Higurashi no Naku Koro ni: Onikakushi-hen,https://cdn.myanimelist.net/images/manga/2/1013.jpg
+1260,Higurashi no Naku Koro ni: Tatarigoroshi-hen,https://cdn.myanimelist.net/images/manga/3/1016.jpg
+1262,Higurashi no Naku Koro ni Kai: Meakashi-hen,https://cdn.myanimelist.net/images/manga/2/1018.jpg
+1265,Higurashi no Naku Koro ni: Yoigoshi-hen,https://cdn.myanimelist.net/images/manga/2/1021.jpg
+1268,The Bride of the Water God,https://cdn.myanimelist.net/images/manga/2/15078.jpg
+1271,Special A,https://cdn.myanimelist.net/images/manga/3/137871.jpg
+1274,RustBlaster,https://cdn.myanimelist.net/images/manga/3/20385.jpg
+1282,Itoshi no Kana,https://cdn.myanimelist.net/images/manga/3/1087.jpg
+1291,Love Celeb,https://cdn.myanimelist.net/images/manga/3/59521.jpg
+1303,Ashita no Joe,https://cdn.myanimelist.net/images/manga/4/75029.jpg
+1340,Bukiyou na Silent,https://cdn.myanimelist.net/images/manga/3/183404.jpg
+1341,Charisma Doll,https://cdn.myanimelist.net/images/manga/2/10333.jpg
+1349,07-Ghost,https://cdn.myanimelist.net/images/manga/2/21417.jpg
+1363,Aoi Hana,https://cdn.myanimelist.net/images/manga/1/182493.jpg
+1376,Dogs: Stray Dogs Howling in the Dark,https://cdn.myanimelist.net/images/manga/1/57015.jpg
+1383,Glamorous Lip,https://cdn.myanimelist.net/images/manga/2/21362.jpg
+1398,Saruyama!,https://cdn.myanimelist.net/images/manga/2/171479.jpg
+1400,Abara,https://cdn.myanimelist.net/images/manga/3/171728.jpg
+1402,100% Perfect Girl,https://cdn.myanimelist.net/images/manga/5/30107.jpg
+1409,Biomega,https://cdn.myanimelist.net/images/manga/2/211783.jpg
+1412,Bloody Kiss,https://cdn.myanimelist.net/images/manga/2/11112.jpg
+1414,SKET Dance,https://cdn.myanimelist.net/images/manga/1/173959.jpg
+1444,Kimi wa Girlfriend,https://cdn.myanimelist.net/images/manga/2/179812.jpg
+1456,Shi ga Futari wo Wakatsu made,https://cdn.myanimelist.net/images/manga/3/167767.jpg
+1471,Aruku Hito,https://cdn.myanimelist.net/images/manga/1/168496.jpg
+1474,Devilman,https://cdn.myanimelist.net/images/manga/2/1431.jpg
+1479,Blue Heaven,https://cdn.myanimelist.net/images/manga/3/26457.jpg
+1501,Sundome,https://cdn.myanimelist.net/images/manga/2/50469.jpg
+1506,Sunadokei,https://cdn.myanimelist.net/images/manga/4/213999.jpg
+1517,JoJo no Kimyou na Bouken Part 1: Phantom Blood,https://cdn.myanimelist.net/images/manga/2/198213.jpg
+1533,Superior,https://cdn.myanimelist.net/images/manga/3/144347.jpg
+1534,Zetman,https://cdn.myanimelist.net/images/manga/2/188924.jpg
+1595,Vitamin,https://cdn.myanimelist.net/images/manga/2/182650.jpg
+1630,JoJo no Kimyou na Bouken Part 2: Sentou Chouryuu,https://cdn.myanimelist.net/images/manga/1/1630.jpg
+1649,Liar Game,https://cdn.myanimelist.net/images/manga/2/149018.jpg
+1671,Believers,https://cdn.myanimelist.net/images/manga/2/1763.jpg
+1695,Adolf ni Tsugu,https://cdn.myanimelist.net/images/manga/2/1788.jpg
+1702,Jisatsu Circle,https://cdn.myanimelist.net/images/manga/2/128469.jpg
+1709,Tegamibachi,https://cdn.myanimelist.net/images/manga/2/154448.jpg
+1721,Nabari no Ou,https://cdn.myanimelist.net/images/manga/3/30490.jpg
+1732,B Reaction,https://cdn.myanimelist.net/images/manga/2/15045.jpg
+1735,Detroit Metal City,https://cdn.myanimelist.net/images/manga/1/207424.jpg
+1744,Arigatou,https://cdn.myanimelist.net/images/manga/3/22394.jpg
+1745,Omamori Himari,https://cdn.myanimelist.net/images/manga/3/50423.jpg
+1801,Kamisama no Iutoori,https://cdn.myanimelist.net/images/manga/1/150338.jpg
+1802,Cat Street,https://cdn.myanimelist.net/images/manga/2/176481.jpg
+1814,Switch Girl!!,https://cdn.myanimelist.net/images/manga/1/128769.jpg
+1848,Deep Love: Host,https://cdn.myanimelist.net/images/manga/5/1995.jpg
+1859,Natsume Yuujinchou,https://cdn.myanimelist.net/images/manga/4/154023.jpg
+1875,Caramel Milk Tea,https://cdn.myanimelist.net/images/manga/3/183167.jpg
+1895,Mademoiselle Butterfly,https://cdn.myanimelist.net/images/manga/1/185121.jpg
+1897,Purikyuu,https://cdn.myanimelist.net/images/manga/2/20710.jpg
+1908,Hatsukoi Limited.,https://cdn.myanimelist.net/images/manga/3/191732.jpg
+1924,Inumimi,https://cdn.myanimelist.net/images/manga/1/67777.jpg
+1926,Nazo no Kanojo X,https://cdn.myanimelist.net/images/manga/3/50697.jpg
+1931,"17-sai, Natsu.: Seifuku no Jouji",https://cdn.myanimelist.net/images/manga/2/110805.jpg
+1962,Variante,https://cdn.myanimelist.net/images/manga/2/67295.jpg
+1964,Hidoku Shinaide,https://cdn.myanimelist.net/images/manga/1/40680.jpg
+1978,Moe Kare!!,https://cdn.myanimelist.net/images/manga/4/168281.jpg
+2005,Aisaretaino,https://cdn.myanimelist.net/images/manga/2/40555.jpg
+2116,Café Latte Rhapsody,https://cdn.myanimelist.net/images/manga/3/23862.jpg
+2117,Ano Kado wo Magatta Tokoro,https://cdn.myanimelist.net/images/manga/3/6149.jpg
+2126,Akuma no Himitsu♥,https://cdn.myanimelist.net/images/manga/2/2323.jpg
+2127,Croquis,https://cdn.myanimelist.net/images/manga/2/21394.jpg
+2146,Love-Berrish!,https://cdn.myanimelist.net/images/manga/2/119135.jpg
+2149,Arakure,https://cdn.myanimelist.net/images/manga/3/175907.jpg
+2214,Warui Koto Shitai,https://cdn.myanimelist.net/images/manga/3/186969.jpg
+2222,Dog Style,https://cdn.myanimelist.net/images/manga/1/152593.jpg
+2335,Abiru Junjou,https://cdn.myanimelist.net/images/manga/2/132645.jpg
+2436,Hotel,https://cdn.myanimelist.net/images/manga/4/66143.jpg
+2628,Boku wa Kimi no Tori ni Naritai.,https://cdn.myanimelist.net/images/manga/1/180997.jpg
+2652,"Isso Mou, Kudokitai!",https://cdn.myanimelist.net/images/manga/3/22577.jpg
+2653,Love Neco,https://cdn.myanimelist.net/images/manga/4/172163.jpg
+2686,Ai wo Utau yori Ore ni Oborero!,https://cdn.myanimelist.net/images/manga/1/7275.jpg
+2704,Kyuuso wa Cheese no Yume wo Miru,https://cdn.myanimelist.net/images/manga/3/20855.jpg
+2730,Hand Which,https://cdn.myanimelist.net/images/manga/3/82192.jpg
+2916,Soryanaize Darling,https://cdn.myanimelist.net/images/manga/1/11322.jpg
+2921,Kaichou wa Maid-sama!,https://cdn.myanimelist.net/images/manga/2/120073.jpg
+2923,Koko ni Iru yo!,https://cdn.myanimelist.net/images/manga/3/147283.jpg
+3006,JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai,https://cdn.myanimelist.net/images/manga/4/156988.jpg
+3008,JoJo no Kimyou na Bouken Part 5: Ougon no Kaze,https://cdn.myanimelist.net/images/manga/2/180417.jpg
+3009,JoJo no Kimyou na Bouken Part 6: Stone Ocean,https://cdn.myanimelist.net/images/manga/3/75929.jpg
+3020,Ai no Tame ni,https://cdn.myanimelist.net/images/manga/3/11770.jpg
+3031,Pandora Hearts,https://cdn.myanimelist.net/images/manga/5/185498.jpg
+3033,Aiki,https://cdn.myanimelist.net/images/manga/3/52449.jpg
+3093,Glass no Megami,https://cdn.myanimelist.net/images/manga/3/27872.jpg
+3101,Deep Love: Pao no Monogatari,https://cdn.myanimelist.net/images/manga/3/36589.jpg
+3116,Black Bird,https://cdn.myanimelist.net/images/manga/3/15666.jpg
+3126,Yami no Koe,https://cdn.myanimelist.net/images/manga/2/234264.jpg
+3140,Five,https://cdn.myanimelist.net/images/manga/3/9661.jpg
+3194,Immortal Regis,https://cdn.myanimelist.net/images/manga/2/18072.jpg
+3256,Fuan no Tane,https://cdn.myanimelist.net/images/manga/1/8840.jpg
+3258,Haruka na Machi e,https://cdn.myanimelist.net/images/manga/5/68119.jpg
+3285,Holyland,https://cdn.myanimelist.net/images/manga/4/71665.jpg
+3299,Ookami to Koushinryou,https://cdn.myanimelist.net/images/manga/3/153861.jpg
+3403,Rosario to Vampire: Season II,https://cdn.myanimelist.net/images/manga/2/54789.jpg
+3436,Cutie Boy,https://cdn.myanimelist.net/images/manga/3/18760.jpg
+3438,Psyren,https://cdn.myanimelist.net/images/manga/2/160868.jpg
+3468,Usagi Drop,https://cdn.myanimelist.net/images/manga/2/203854.jpg
+3486,Shiki,https://cdn.myanimelist.net/images/manga/1/56519.jpg
+3493,Otokomae! Beads Club,https://cdn.myanimelist.net/images/manga/1/9817.jpg
+3520,Totally Captivated,https://cdn.myanimelist.net/images/manga/5/30115.jpg
+3526,Fate/kaleid liner Prisma☆Illya,https://cdn.myanimelist.net/images/manga/4/151202.jpg
+3554,Midnight Secretary,https://cdn.myanimelist.net/images/manga/2/31577.jpg
+3565,Shinobi Life,https://cdn.myanimelist.net/images/manga/3/19833.jpg
+3583,Datte Suki Nan Damon,https://cdn.myanimelist.net/images/manga/3/245824.jpg
+3605,Kimi ga Suki,https://cdn.myanimelist.net/images/manga/2/51207.jpg
+3614,Subarashii Sekai,https://cdn.myanimelist.net/images/manga/1/147085.jpg
+3631,Akuma to Dolce,https://cdn.myanimelist.net/images/manga/1/6317.jpg
+3633,Beast Master,https://cdn.myanimelist.net/images/manga/2/169235.jpg
+3645,Death Note 13: How to Read - Shinsou,https://cdn.myanimelist.net/images/manga/3/231006.jpg
+3653,7 Jikan-me Rhapsody,https://cdn.myanimelist.net/images/manga/1/14830.jpg
+3685,"Asa mo, Hiru mo, Yoru mo.",https://cdn.myanimelist.net/images/manga/2/130557.jpg
+3713,Bartender,https://cdn.myanimelist.net/images/manga/5/5866.jpg
+3731,Solanin,https://cdn.myanimelist.net/images/manga/2/179699.jpg
+3749,Umineko no Naku Koro ni - Episode 1: Legend of the Golden Witch,https://cdn.myanimelist.net/images/manga/3/248922.jpg
+3764,A Cat That Loved a Fish,https://cdn.myanimelist.net/images/manga/1/22621.jpg
+3820,Shinigami Lovers,https://cdn.myanimelist.net/images/manga/1/172771.jpg
+3821,Deep Love Virus,https://cdn.myanimelist.net/images/manga/3/4267.jpg
+3831,Chocolate Cosmos,https://cdn.myanimelist.net/images/manga/2/180605.jpg
+3866,Kuroshitsuji,https://cdn.myanimelist.net/images/manga/1/28128.jpg
+3867,Harem☆Lodge,https://cdn.myanimelist.net/images/manga/2/171807.jpg
+3872,Kiss yori mo Hayaku,https://cdn.myanimelist.net/images/manga/5/111965.jpg
+3884,Kanokon,https://cdn.myanimelist.net/images/manga/3/52931.jpg
+3924,Private Prince,https://cdn.myanimelist.net/images/manga/5/19202.jpg
+3986,Deadman Wonderland,https://cdn.myanimelist.net/images/manga/3/186275.jpg
+3992,Jigokusei Remina,https://cdn.myanimelist.net/images/manga/3/235820.jpg
+4076,Beauty!!,https://cdn.myanimelist.net/images/manga/2/191405.jpg
+4077,Ayu Mayu,https://cdn.myanimelist.net/images/manga/2/157775.jpg
+4196,Animal♂Jungle,https://cdn.myanimelist.net/images/manga/2/82030.jpg
+4207,Boku no Hatsukoi wo Kimi ni Sasagu,https://cdn.myanimelist.net/images/manga/1/202476.jpg
+4249,Umi no Misaki,https://cdn.myanimelist.net/images/manga/1/56947.jpg
+4251,Koibana!: Koiseyo Hanabi,https://cdn.myanimelist.net/images/manga/3/191476.jpg
+4261,NanaKo Robin,https://cdn.myanimelist.net/images/manga/2/15136.jpg
+4293,Ai Hime: Ai to Himegoto,https://cdn.myanimelist.net/images/manga/3/153228.jpg
+4330,Gochisou-sama,https://cdn.myanimelist.net/images/manga/5/16367.jpg
+4344,Aflame Inferno,https://cdn.myanimelist.net/images/manga/1/55009.jpg
+4358,Monster Soul,https://cdn.myanimelist.net/images/manga/5/23366.jpg
+4368,Toradora!,https://cdn.myanimelist.net/images/manga/2/174090.jpg
+4392,7-genme wa Himitsu.,https://cdn.myanimelist.net/images/manga/2/171442.jpg
+4487,A Kiss to the Prince,https://cdn.myanimelist.net/images/manga/5/43797.jpg
+4514,"Kyou, Koi wo Hajimemasu",https://cdn.myanimelist.net/images/manga/3/37974.jpg
+4571,Akagami no Shirayuki-hime,https://cdn.myanimelist.net/images/manga/3/19761.jpg
+4584,Sasameki Koto,https://cdn.myanimelist.net/images/manga/2/217658.jpg
+4608,Break Blade,https://cdn.myanimelist.net/images/manga/3/160213.jpg
+4632,Oyasumi Punpun,https://cdn.myanimelist.net/images/manga/3/164420.jpg
+4685,Saikyou Koibana: Sweet & Erotic Best 5,https://cdn.myanimelist.net/images/manga/3/5780.jpg
+4768,Bus Hashiru.,https://cdn.myanimelist.net/images/manga/3/181327.jpg
+4964,Eien no With,https://cdn.myanimelist.net/images/manga/3/19931.jpg
+5026,Doushiyoumo Nai Keredo,https://cdn.myanimelist.net/images/manga/3/6252.jpg
+5090,Dear Friends: Rina & Maki,https://cdn.myanimelist.net/images/manga/2/124827.jpg
+5095,Akanai Tobira,https://cdn.myanimelist.net/images/manga/1/81906.jpg
+5107,"Yume Musubi, Koi Musubi",https://cdn.myanimelist.net/images/manga/2/24303.jpg
+5113,Witch Hunter,https://cdn.myanimelist.net/images/manga/1/198695.jpg
+5119,Hoozuki no Shima,https://cdn.myanimelist.net/images/manga/2/179297.jpg
+5157,Baki: New Grappler Baki,https://cdn.myanimelist.net/images/manga/2/6648.jpg
+5255,Dengeki Daisy,https://cdn.myanimelist.net/images/manga/1/152369.jpg
+5272,Hadashi de Bara wo Fume,https://cdn.myanimelist.net/images/manga/1/16663.jpg
+5293,Doubt,https://cdn.myanimelist.net/images/manga/1/196163.jpg
+5348,Furachi na Kare no Shitsukekata,https://cdn.myanimelist.net/images/manga/2/26755.jpg
+5394,Kiss/Hug,https://cdn.myanimelist.net/images/manga/2/249692.jpg
+5627,Bloody Monday,https://cdn.myanimelist.net/images/manga/2/57141.jpg
+5651,Crows,https://cdn.myanimelist.net/images/manga/3/77965.jpg
+5674,Negative Happy Chainsaw Edge,https://cdn.myanimelist.net/images/manga/3/11388.jpg
+5686,24 Colors: Hatsukoi no Palette,https://cdn.myanimelist.net/images/manga/1/71933.jpg
+5709,Litchi☆Hikari Club,https://cdn.myanimelist.net/images/manga/3/65867.jpg
+5806,Franken Fran,https://cdn.myanimelist.net/images/manga/1/150351.jpg
+5911,Freezing,https://cdn.myanimelist.net/images/manga/3/51021.jpg
+6030,Adarshan no Hanayome,https://cdn.myanimelist.net/images/manga/1/7723.jpg
+6164,My Girl,https://cdn.myanimelist.net/images/manga/2/42167.jpg
+6304,Kimi ga Koi ni Oboreru,https://cdn.myanimelist.net/images/manga/2/8072.jpg
+6520,Hana to Akuma,https://cdn.myanimelist.net/images/manga/5/32636.jpg
+6933,Chocolate,https://cdn.myanimelist.net/images/manga/1/202693.jpg
+7075,Karate Shoukoushi Kohinata Minoru,https://cdn.myanimelist.net/images/manga/2/75107.jpg
+7142,Suki ni Naru made Matte,https://cdn.myanimelist.net/images/manga/3/36415.jpg
+7220,Bokura wa Itsumo,https://cdn.myanimelist.net/images/manga/1/219796.jpg
+7274,Giri Koi,https://cdn.myanimelist.net/images/manga/3/23928.jpg
+7279,Akuma de Koibito.,https://cdn.myanimelist.net/images/manga/2/24607.jpg
+7378,Strobe Edge,https://cdn.myanimelist.net/images/manga/2/32966.jpg
+7383,Blue,https://cdn.myanimelist.net/images/manga/3/184028.jpg
+7394,14R,https://cdn.myanimelist.net/images/manga/3/110813.jpg
+7519,Kami nomi zo Shiru Sekai,https://cdn.myanimelist.net/images/manga/2/188974.jpg
+7561,Ai no Kotoba mo Shiranaide,https://cdn.myanimelist.net/images/manga/3/10326.jpg
+7627,Dance in the Vampire Bund,https://cdn.myanimelist.net/images/manga/1/10431.jpg
+7631,Aoi Kiseki,https://cdn.myanimelist.net/images/manga/1/82032.jpg
+7749,Oresama Teacher,https://cdn.myanimelist.net/images/manga/4/186262.jpg
+7775,Toaru Majutsu no Index,https://cdn.myanimelist.net/images/manga/1/77569.jpg
+7776,Toaru Majutsu no Index Gaiden: Toaru Kagaku no Railgun,https://cdn.myanimelist.net/images/manga/1/149212.jpg
+7872,Akuma ga Hallelujah,https://cdn.myanimelist.net/images/manga/3/101497.jpg
+7966,99% Cacao,https://cdn.myanimelist.net/images/manga/1/10855.jpg
+8042,Hana ni Arashi,https://cdn.myanimelist.net/images/manga/2/184460.jpg
+8157,Kamisama Hajimemashita,https://cdn.myanimelist.net/images/manga/1/167521.jpg
+8204,Hikari no Machi,https://cdn.myanimelist.net/images/manga/3/171828.jpg
+8227,Arashi no Ato,https://cdn.myanimelist.net/images/manga/1/11247.jpg
+8300,Baby Steps,https://cdn.myanimelist.net/images/manga/2/202589.jpg
+8340,Boku wa Kiss de Uso wo Tsuku,https://cdn.myanimelist.net/images/manga/1/177550.jpg
+8341,Code:Breaker,https://cdn.myanimelist.net/images/manga/1/15122.jpg
+8456,½ Prince,https://cdn.myanimelist.net/images/manga/4/79715.jpg
+8840,Hanatsukihime,https://cdn.myanimelist.net/images/manga/2/185699.jpg
+8878,Hetalia Axis Powers,https://cdn.myanimelist.net/images/manga/3/15100.jpg
+8967,Onanie Master Kurosawa,https://cdn.myanimelist.net/images/manga/3/212092.jpg
+8990,Fetish,https://cdn.myanimelist.net/images/manga/1/12253.jpg
+8997,Bradherley no Basha,https://cdn.myanimelist.net/images/manga/2/56597.jpg
+9296,Seven Days,https://cdn.myanimelist.net/images/manga/1/130103.jpg
+9403,Love Letter,https://cdn.myanimelist.net/images/manga/2/18205.jpg
+9541,The Legend of Maian,https://cdn.myanimelist.net/images/manga/3/54967.jpg
+9548,Higurashi no Naku Koro ni Kai: Minagoroshi-hen,https://cdn.myanimelist.net/images/manga/4/23993.jpg
+9607,Yumemiru Taiyou,https://cdn.myanimelist.net/images/manga/1/170585.jpg
+9702,Onidere,https://cdn.myanimelist.net/images/manga/3/146835.jpg
+9711,Bakuman.,https://cdn.myanimelist.net/images/manga/1/208974.jpg
+9730,Onihime VS,https://cdn.myanimelist.net/images/manga/2/183911.jpg
+9732,Koibana Onsen,https://cdn.myanimelist.net/images/manga/1/51425.jpg
+10249,Veritas,https://cdn.myanimelist.net/images/manga/1/55069.jpg
+10268,Dog Style,https://cdn.myanimelist.net/images/manga/1/168925.jpg
+10363,Bi no Isu,https://cdn.myanimelist.net/images/manga/4/18386.jpg
+10376,Cavalier of the Abyss,https://cdn.myanimelist.net/images/manga/3/202184.jpg
+10380,Aishiteru,https://cdn.myanimelist.net/images/manga/2/82690.jpg
+10552,Hoshi no Samidare,https://cdn.myanimelist.net/images/manga/3/56421.jpg
+10884,Diamond no Ace,https://cdn.myanimelist.net/images/manga/1/14653.jpg
+10951,17-sai no Hisoka na Yokujou,https://cdn.myanimelist.net/images/manga/2/21681.jpg
+11054,Billy Bat,https://cdn.myanimelist.net/images/manga/3/181197.jpg
+11072,Koizora: Setsunai Koimonogatari,https://cdn.myanimelist.net/images/manga/2/14961.jpg
+11187,Gokujou♥Drops,https://cdn.myanimelist.net/images/manga/1/163085.jpg
+11294,Mangaka-san to Assistant-san to,https://cdn.myanimelist.net/images/manga/1/51369.jpg
+11327,One Outs,https://cdn.myanimelist.net/images/manga/3/169329.jpg
+11438,Kimi ni shika Kikoenai,https://cdn.myanimelist.net/images/manga/2/36019.jpg
+11514,Otoyomegatari,https://cdn.myanimelist.net/images/manga/2/188950.jpg
+11566,Hanjuku Joshi,https://cdn.myanimelist.net/images/manga/1/25864.jpg
+11573,Café Relish ni Oide,https://cdn.myanimelist.net/images/manga/1/16923.jpg
+11577,Stardust★Wink,https://cdn.myanimelist.net/images/manga/2/195605.jpg
+11585,Boku no Sekai Kimi no Real,https://cdn.myanimelist.net/images/manga/3/125503.jpg
+11597,Hakushaku to Yousei,https://cdn.myanimelist.net/images/manga/1/144283.jpg
+11646,Kirai ja Nai kedo,https://cdn.myanimelist.net/images/manga/2/137691.jpg
+11652,Kuroko no Basket,https://cdn.myanimelist.net/images/manga/1/92071.jpg
+11684,Domina no Do!,https://cdn.myanimelist.net/images/manga/1/65839.jpg
+11734,Watashitachi no Shiawase na Jikan,https://cdn.myanimelist.net/images/manga/3/66993.jpg
+11767,Suki tte Ii na yo.,https://cdn.myanimelist.net/images/manga/3/198567.jpg
+11803,Hidarite no Love Letter,https://cdn.myanimelist.net/images/manga/3/82286.jpg
+11828,Dancing Baby Karin,https://cdn.myanimelist.net/images/manga/1/16124.jpg
+11896,Reimei no Arcana,https://cdn.myanimelist.net/images/manga/4/161802.jpg
+12041,Boku no Shiru Anata no Hanashi,https://cdn.myanimelist.net/images/manga/2/82068.jpg
+12064,Sora Log,https://cdn.myanimelist.net/images/manga/3/52639.jpg
+12123,Crimson-Shell,https://cdn.myanimelist.net/images/manga/3/16610.jpg
+12245,Fly-High!,https://cdn.myanimelist.net/images/manga/4/127745.jpg
+12309,Arisa,https://cdn.myanimelist.net/images/manga/3/115455.jpg
+12451,Wolf Guy: Ookami no Monshou,https://cdn.myanimelist.net/images/manga/1/248873.jpg
+12554,Doushitemo Furetakunai,https://cdn.myanimelist.net/images/manga/2/130105.jpg
+12586,Eden no Ori,https://cdn.myanimelist.net/images/manga/3/56963.jpg
+12629,Aki-Sora,https://cdn.myanimelist.net/images/manga/1/50775.jpg
+12749,I ♥ HS,https://cdn.myanimelist.net/images/manga/2/17718.jpg
+12888,Hapi Mari: Happy Marriage!?,https://cdn.myanimelist.net/images/manga/5/142459.jpg
+12917,Shaman King Kanzenban,https://cdn.myanimelist.net/images/manga/1/143909.jpg
+12965,Shin Tennis no Ouji-sama,https://cdn.myanimelist.net/images/manga/2/153234.jpg
+12985,Princess Lucia,https://cdn.myanimelist.net/images/manga/3/153423.jpg
+13001,K-On!,https://cdn.myanimelist.net/images/manga/3/20937.jpg
+13090,Kawaii Akuma,https://cdn.myanimelist.net/images/manga/3/161597.jpg
+13111,"Koi, Hirari",https://cdn.myanimelist.net/images/manga/2/126515.jpg
+13167,Benkyou no Jikan,https://cdn.myanimelist.net/images/manga/1/65651.jpg
+13171,He's dedicated to Roses,https://cdn.myanimelist.net/images/manga/1/18766.jpg
+13194,Boyfriend,https://cdn.myanimelist.net/images/manga/3/23925.jpg
+13245,Chihayafuru,https://cdn.myanimelist.net/images/manga/2/135341.jpg
+13277,Mirai Nikki: Paradox,https://cdn.myanimelist.net/images/manga/4/38446.jpg
+13381,Tight-rope,https://cdn.myanimelist.net/images/manga/1/18821.jpg
+13463,Watashi ni xx Shinasai!,https://cdn.myanimelist.net/images/manga/2/155156.jpg
+13492,Ao no Exorcist,https://cdn.myanimelist.net/images/manga/2/188810.jpg
+13702,Tonari no Kaibutsu-kun,https://cdn.myanimelist.net/images/manga/2/59207.jpg
+13731,Oniichan☆Control,https://cdn.myanimelist.net/images/manga/2/35530.jpg
+13748,Defense Devil,https://cdn.myanimelist.net/images/manga/2/56407.jpg
+13801,Drifters,https://cdn.myanimelist.net/images/manga/4/33949.jpg
+13826,Canvas ni Kuchizuke wo,https://cdn.myanimelist.net/images/manga/4/24871.jpg
+13837,Hitoribocchi wa Samishikute,https://cdn.myanimelist.net/images/manga/3/20084.jpg
+13841,Mimi no Kaidan,https://cdn.myanimelist.net/images/manga/4/25805.jpg
+13883,Koi wo Suru no ga Shigoto desu.,https://cdn.myanimelist.net/images/manga/3/57223.jpg
+13949,Medaka Box,https://cdn.myanimelist.net/images/manga/2/50353.jpg
+14049,S・L・H,https://cdn.myanimelist.net/images/manga/5/46605.jpg
+14110,Seitokai Yakuindomo,https://cdn.myanimelist.net/images/manga/1/135853.jpg
+14115,Prunus Girl,https://cdn.myanimelist.net/images/manga/2/53535.jpg
+14154,Arakawa Under the Bridge,https://cdn.myanimelist.net/images/manga/1/59489.jpg
+14236,Love So Life,https://cdn.myanimelist.net/images/manga/1/162281.jpg
+14265,24-jikan Eigyouchuu,https://cdn.myanimelist.net/images/manga/3/70127.jpg
+14440,I Am a Hero,https://cdn.myanimelist.net/images/manga/1/121183.jpg
+14483,Uchuu Kyoudai,https://cdn.myanimelist.net/images/manga/3/166256.jpg
+14491,Hen Koi!,https://cdn.myanimelist.net/images/manga/3/161684.jpg
+14504,Yandere Kanojo,https://cdn.myanimelist.net/images/manga/3/159812.jpg
+14531,GTO: Shonan 14 Days,https://cdn.myanimelist.net/images/manga/1/56109.jpg
+14633,Seiyuu Ka!,https://cdn.myanimelist.net/images/manga/4/30985.jpg
+14690,Gokujou Twins,https://cdn.myanimelist.net/images/manga/3/113313.jpg
+14720,Honto Yajuu,https://cdn.myanimelist.net/images/manga/2/21139.jpg
+14721,D-Frag!,https://cdn.myanimelist.net/images/manga/1/188780.jpg
+14739,Mousou Elektel,https://cdn.myanimelist.net/images/manga/1/28328.jpg
+14770,Are You Alice?,https://cdn.myanimelist.net/images/manga/3/157051.jpg
+14790,Magi,https://cdn.myanimelist.net/images/manga/2/201605.jpg
+14975,Darker than Black: Shikkoku no Hana,https://cdn.myanimelist.net/images/manga/1/195103.jpg
+15094,Calling,https://cdn.myanimelist.net/images/manga/3/21914.jpg
+15165,Let's☆Lagoon,https://cdn.myanimelist.net/images/manga/2/215200.jpg
+15167,Gamble Fish,https://cdn.myanimelist.net/images/manga/3/164909.jpg
+15170,"Obaka-chan, Koigatariki",https://cdn.myanimelist.net/images/manga/2/32964.jpg
+15189,Seishun Pop!,https://cdn.myanimelist.net/images/manga/1/65831.jpg
+15206,Mishounen Produce,https://cdn.myanimelist.net/images/manga/3/27454.jpg
+15317,Ore no Imouto ga Konnani Kawaii Wake ga Nai,https://cdn.myanimelist.net/images/manga/2/52521.jpg
+15355,Sekai no Owari to Yoakemae,https://cdn.myanimelist.net/images/manga/3/199450.jpg
+15433,Hyakujuu Kingdom,https://cdn.myanimelist.net/images/manga/3/22431.jpg
+15490,Lovers♥Doll,https://cdn.myanimelist.net/images/manga/1/22531.jpg
+15507,Dounimo Naranai,https://cdn.myanimelist.net/images/manga/3/22553.jpg
+15628,Koakuma Lion,https://cdn.myanimelist.net/images/manga/3/101419.jpg
+15737,1/3 Romantica,https://cdn.myanimelist.net/images/manga/2/29757.jpg
+15805,Tasogare Otome x Amnesia,https://cdn.myanimelist.net/images/manga/3/188846.jpg
+16031,Ano Hi no Kimi wo Dakishimeta nara,https://cdn.myanimelist.net/images/manga/5/130107.jpg
+16061,NightS,https://cdn.myanimelist.net/images/manga/1/130125.jpg
+16256,Koharu no Hibi,https://cdn.myanimelist.net/images/manga/3/56255.jpg
+16765,Kingdom,https://cdn.myanimelist.net/images/manga/2/171872.jpg
+16794,L♥DK,https://cdn.myanimelist.net/images/manga/2/199339.jpg
+16908,Himitsu no Ai-chan,https://cdn.myanimelist.net/images/manga/3/139187.jpg
+17007,Love in the Mask,https://cdn.myanimelist.net/images/manga/1/32538.jpg
+17169,Hoozuki-san Chi no Aneki,https://cdn.myanimelist.net/images/manga/1/119937.jpg
+17207,Inu x Boku SS,https://cdn.myanimelist.net/images/manga/2/48555.jpg
+17353,Umibe no Onnanoko,https://cdn.myanimelist.net/images/manga/3/87179.jpg
+17368,Blame Gakuen! And So On,https://cdn.myanimelist.net/images/manga/3/129687.jpg
+17394,Hiyokoi,https://cdn.myanimelist.net/images/manga/2/139879.jpg
+17396,Kiraboshi Dial,https://cdn.myanimelist.net/images/manga/2/29241.jpg
+17465,Omoide Emanon,https://cdn.myanimelist.net/images/manga/2/56581.jpg
+17596,Film Girl,https://cdn.myanimelist.net/images/manga/2/184338.jpg
+17706,Super Lovers,https://cdn.myanimelist.net/images/manga/3/34151.jpg
+17731,16 Life,https://cdn.myanimelist.net/images/manga/4/123189.jpg
+17890,Koi ja Nai kedo,https://cdn.myanimelist.net/images/manga/2/27339.jpg
+17892,Mujihi na Otoko,https://cdn.myanimelist.net/images/manga/5/108411.jpg
+17904,Kuragehime,https://cdn.myanimelist.net/images/manga/3/149209.jpg
+17915,Judge,https://cdn.myanimelist.net/images/manga/3/184476.jpg
+17963,Kimi no Sei,https://cdn.myanimelist.net/images/manga/3/28300.jpg
+18019,Countrouble,https://cdn.myanimelist.net/images/manga/3/188881.jpg
+18111,Bousou♥Kareshi,https://cdn.myanimelist.net/images/manga/3/170551.jpg
+18270,Gou-Dere Bishoujo Nagihara Sora♥,https://cdn.myanimelist.net/images/manga/3/188790.jpg
+18294,Ai dano Koi dano,https://cdn.myanimelist.net/images/manga/1/182534.jpg
+18361,Lock On!,https://cdn.myanimelist.net/images/manga/4/137235.jpg
+18597,Sankarea,https://cdn.myanimelist.net/images/manga/3/137969.jpg
+18792,Hana nomi zo Shiru,https://cdn.myanimelist.net/images/manga/3/168034.jpg
+18939,Yasashii Sekai no Tsukurikata,https://cdn.myanimelist.net/images/manga/3/144221.jpg
+18977,Kimi ga Uso wo Tsuita,https://cdn.myanimelist.net/images/manga/2/163797.jpg
+19007,B-gata H-kei,https://cdn.myanimelist.net/images/manga/2/46861.jpg
+19087,Boku wa Tomodachi ga Sukunai,https://cdn.myanimelist.net/images/manga/1/171868.jpg
+19266,Ameiro Paradox,https://cdn.myanimelist.net/images/manga/5/64901.jpg
+19549,Kimi Note,https://cdn.myanimelist.net/images/manga/1/130111.jpg
+19555,Asa made Jugyou Chu!,https://cdn.myanimelist.net/images/manga/2/188815.jpg
+19844,Mouryou no Yurikago,https://cdn.myanimelist.net/images/manga/2/179505.jpg
+19896,Witch Craft Works,https://cdn.myanimelist.net/images/manga/2/250818.jpg
+20242,Binbougami ga!,https://cdn.myanimelist.net/images/manga/5/81306.jpg
+20375,Black Paradox,https://cdn.myanimelist.net/images/manga/5/34929.jpg
+20593,Btooom!,https://cdn.myanimelist.net/images/manga/3/62199.jpg
+21077,Abarenbou♥Darling,https://cdn.myanimelist.net/images/manga/1/33827.jpg
+21111,Arachnid,https://cdn.myanimelist.net/images/manga/3/173766.jpg
+21151,Nana to Kaoru: Black Label,https://cdn.myanimelist.net/images/manga/2/188990.jpg
+21277,Rutta to Kodama,https://cdn.myanimelist.net/images/manga/3/34226.jpg
+21419,Nozoki Ana,https://cdn.myanimelist.net/images/manga/2/178011.jpg
+21525,Akatsuki no Yona,https://cdn.myanimelist.net/images/manga/3/153249.jpg
+21614,Blood Lad,https://cdn.myanimelist.net/images/manga/3/187779.jpg
+21729,Fujimura-kun Mates,https://cdn.myanimelist.net/images/manga/3/66005.jpg
+21860,Mayo Chiki!,https://cdn.myanimelist.net/images/manga/3/54741.jpg
+22031,ənígmə,https://cdn.myanimelist.net/images/manga/4/39803.jpg
+22044,Iris Zero,https://cdn.myanimelist.net/images/manga/2/35739.jpg
+22046,Tonari no Kashiwagi-san,https://cdn.myanimelist.net/images/manga/2/181053.jpg
+22143,Hetakoi,https://cdn.myanimelist.net/images/manga/3/179968.jpg
+22518,Usotsuki Mii-kun to Kowareta Maa-chan: Totteoki no Uso,https://cdn.myanimelist.net/images/manga/2/165163.jpg
+22519,To LOVE-Ru Darkness,https://cdn.myanimelist.net/images/manga/3/109331.jpg
+22551,360° Material,https://cdn.myanimelist.net/images/manga/2/176931.jpg
+22638,Velvet Kiss,https://cdn.myanimelist.net/images/manga/1/69893.jpg
+22651,The Breaker: New Waves,https://cdn.myanimelist.net/images/manga/1/62105.jpg
+23052,AKB49: Renai Kinshi Jourei,https://cdn.myanimelist.net/images/manga/2/167252.jpg
+23217,Carnivorous Princess Yegrinna,https://cdn.myanimelist.net/images/manga/2/63929.jpg
+23266,Beast & Feast,https://cdn.myanimelist.net/images/manga/1/37604.jpg
+23358,Heroine Shikkaku,https://cdn.myanimelist.net/images/manga/1/37848.jpg
+23390,Shingeki no Kyojin,https://cdn.myanimelist.net/images/manga/2/37846.jpg
+23588,Billionaire Girl,https://cdn.myanimelist.net/images/manga/3/188809.jpg
+23633,Machine-Doll wa Kizutsukanai,https://cdn.myanimelist.net/images/manga/3/38260.jpg
+23688,Mairunovich,https://cdn.myanimelist.net/images/manga/3/121261.jpg
+23689,"Inari, Konkon, Koi Iroha.",https://cdn.myanimelist.net/images/manga/1/188898.jpg
+23717,Kono Oneesan wa Fiction desu!?,https://cdn.myanimelist.net/images/manga/1/149001.jpg
+24098,Another,https://cdn.myanimelist.net/images/manga/2/159693.jpg
+24275,Koimoku,https://cdn.myanimelist.net/images/manga/3/48997.jpg
+24294,Ao Haru Ride,https://cdn.myanimelist.net/images/manga/1/62369.jpg
+24308,No.6,https://cdn.myanimelist.net/images/manga/2/184479.jpg
+24457,Mahou Shoujo Madoka★Magica,https://cdn.myanimelist.net/images/manga/3/149732.jpg
+24550,Bokura no Himitsu wo Kyouyuu Shiyou ka,https://cdn.myanimelist.net/images/manga/3/147737.jpg
+24561,Kamisama no Iutoori,https://cdn.myanimelist.net/images/manga/1/57867.jpg
+24692,Noragami,https://cdn.myanimelist.net/images/manga/2/90899.jpg
+24698,Nozo x Kimi,https://cdn.myanimelist.net/images/manga/2/78073.jpg
+24705,Aku no Hana,https://cdn.myanimelist.net/images/manga/2/188918.jpg
+24821,Tomodachi no Hanashi,https://cdn.myanimelist.net/images/manga/1/187387.jpg
+24822,Trinity Seven: 7-nin no Mashotsukai,https://cdn.myanimelist.net/images/manga/1/63963.jpg
+24836,Ousama Game,https://cdn.myanimelist.net/images/manga/1/116343.jpg
+24903,Gangsta.,https://cdn.myanimelist.net/images/manga/2/160089.jpg
+25057,Game Over,https://cdn.myanimelist.net/images/manga/3/40378.jpg
+25081,Love Stage!!,https://cdn.myanimelist.net/images/manga/4/41861.jpg
+25096,Gin no Saji,https://cdn.myanimelist.net/images/manga/1/231500.jpg
+25132,Akame ga Kill!,https://cdn.myanimelist.net/images/manga/1/187665.jpg
+25250,Voynich Hotel,https://cdn.myanimelist.net/images/manga/1/157463.jpg
+25297,Prison School,https://cdn.myanimelist.net/images/manga/2/102683.jpg
+25322,"Nineteen, Twenty-One",https://cdn.myanimelist.net/images/manga/3/40772.jpg
+25515,JoJo no Kimyou na Bouken Part 8: JoJolion,https://cdn.myanimelist.net/images/manga/1/179885.jpg
+25679,Hentai Ouji to Warawanai Neko.,https://cdn.myanimelist.net/images/manga/3/207423.jpg
+25682,Starlike Words,https://cdn.myanimelist.net/images/manga/1/86487.jpg
+25810,Boku wa Ookami.,https://cdn.myanimelist.net/images/manga/2/189820.jpg
+26021,Hajimari no Niina,https://cdn.myanimelist.net/images/manga/3/142817.jpg
+26144,Danshi Koukousei no Nichijou,https://cdn.myanimelist.net/images/manga/3/200703.jpg
+26178,Donten ni Warau,https://cdn.myanimelist.net/images/manga/1/42047.jpg
+26260,Bloody Monday: Last Season,https://cdn.myanimelist.net/images/manga/2/185386.jpg
+26324,Conveni-kun.,https://cdn.myanimelist.net/images/manga/4/60601.jpg
+26479,Prism,https://cdn.myanimelist.net/images/manga/5/65033.jpg
+26584,Kagami no Kuni no Harisugawa,https://cdn.myanimelist.net/images/manga/2/62475.jpg
+26736,Taiyou no Ie,https://cdn.myanimelist.net/images/manga/2/149086.jpg
+26769,Bokura wa Minna Kawai-sou,https://cdn.myanimelist.net/images/manga/1/204982.jpg
+26945,Hana-kun to Koisuru Watashi,https://cdn.myanimelist.net/images/manga/2/162159.jpg
+27231,Hirunaka no Ryuusei,https://cdn.myanimelist.net/images/manga/1/63891.jpg
+27989,Maga-Tsuki,https://cdn.myanimelist.net/images/manga/2/191823.jpg
+28184,Life Is Money,https://cdn.myanimelist.net/images/manga/2/196692.jpg
+28226,Bonnouji,https://cdn.myanimelist.net/images/manga/2/159423.jpg
+28343,Himegoto Asobi,https://cdn.myanimelist.net/images/manga/1/70209.jpg
+28361,Hideout,https://cdn.myanimelist.net/images/manga/2/65719.jpg
+28393,Sakamichi no Apollon,https://cdn.myanimelist.net/images/manga/3/62627.jpg
+28449,Saezuru Tori wa Habatakanai,https://cdn.myanimelist.net/images/manga/3/83655.jpg
+28533,Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!,https://cdn.myanimelist.net/images/manga/5/63521.jpg
+28537,"Classmate, Kamimura Yuuka wa Kou Itta.",https://cdn.myanimelist.net/images/manga/1/188873.jpg
+28697,Big Order,https://cdn.myanimelist.net/images/manga/2/179733.jpg
+28743,Dendrobates,https://cdn.myanimelist.net/images/manga/3/46071.jpg
+28825,Ookami Shoujo to Kuro Ouji,https://cdn.myanimelist.net/images/manga/1/163543.jpg
+29211,Gekkan Shoujo Nozaki-kun,https://cdn.myanimelist.net/images/manga/3/208752.jpg
+29447,Kurogane,https://cdn.myanimelist.net/images/manga/2/57703.jpg
+29975,Bokura wa Sore wo Hitei Dekinai,https://cdn.myanimelist.net/images/manga/1/88619.jpg
+29983,Noblesse,https://cdn.myanimelist.net/images/manga/1/50987.jpg
+30079,Annarasumanara,https://cdn.myanimelist.net/images/manga/3/71143.jpg
+30177,Boku to Kanojo no Koi Log,https://cdn.myanimelist.net/images/manga/1/161278.jpg
+30315,Last Game,https://cdn.myanimelist.net/images/manga/5/65713.jpg
+30545,Endou-kun no Kansatsu Nikki,https://cdn.myanimelist.net/images/manga/2/196127.jpg
+30595,Ever Green,https://cdn.myanimelist.net/images/manga/3/150961.jpg
+30859,High School DxD,https://cdn.myanimelist.net/images/manga/1/206676.jpg
+31499,Nisekoi,https://cdn.myanimelist.net/images/manga/1/181212.jpg
+31529,"Kasa no Shita, Futari",https://cdn.myanimelist.net/images/manga/1/130109.jpg
+31853,Emanon - Sasurai Emanon Episode: 1,https://cdn.myanimelist.net/images/manga/1/116575.jpg
+31857,Ookamidomo no Shitsukekata,https://cdn.myanimelist.net/images/manga/2/61287.jpg
+32779,Denpa Kyoushi,https://cdn.myanimelist.net/images/manga/1/154265.jpg
+32931,"Daisuki Datta yo, Sensei...",https://cdn.myanimelist.net/images/manga/1/111769.jpg
+33031,Imawa no Kuni no Alice,https://cdn.myanimelist.net/images/manga/3/137237.jpg
+33251,Konya mo Nemurenai,https://cdn.myanimelist.net/images/manga/3/130147.jpg
+33325,Crayon Days: Daikirai na Aitsu,https://cdn.myanimelist.net/images/manga/3/91233.jpg
+33327,Tokyo Ghoul,https://cdn.myanimelist.net/images/manga/3/114037.jpg
+34133,Bara to Juudan,https://cdn.myanimelist.net/images/manga/3/114471.jpg
+34377,Gokukoku no Brynhildr,https://cdn.myanimelist.net/images/manga/2/188789.jpg
+35003,Yamada-kun to 7-nin no Majo,https://cdn.myanimelist.net/images/manga/1/191685.jpg
+35013,Again!!,https://cdn.myanimelist.net/images/manga/2/201817.jpg
+35035,Kyou no Kira-kun,https://cdn.myanimelist.net/images/manga/1/134993.jpg
+35081,Boku no Ano Ko,https://cdn.myanimelist.net/images/manga/3/169798.jpg
+35171,Can't See Can't Hear But Love,https://cdn.myanimelist.net/images/manga/2/104251.jpg
+35573,Orange,https://cdn.myanimelist.net/images/manga/2/153742.jpg
+35719,Hibi Chouchou,https://cdn.myanimelist.net/images/manga/3/156837.jpg
+35721,Area D: Inou Ryouiki,https://cdn.myanimelist.net/images/manga/1/188814.jpg
+36199,Another 0,https://cdn.myanimelist.net/images/manga/3/159691.jpg
+36267,Boku wa Mari no Naka,https://cdn.myanimelist.net/images/manga/2/88263.jpg
+36413,Hinamatsuri,https://cdn.myanimelist.net/images/manga/2/65759.jpg
+36723,Hataraku Maou-sama!,https://cdn.myanimelist.net/images/manga/3/160910.jpg
+36729,Beelzebub Maou Gaiden,https://cdn.myanimelist.net/images/manga/1/66289.jpg
+36933,Ore Monogatari!!,https://cdn.myanimelist.net/images/manga/3/180382.jpg
+37013,Koisome Momiji,https://cdn.myanimelist.net/images/manga/1/120937.jpg
+37067,Recipe no Ouji-sama,https://cdn.myanimelist.net/images/manga/3/95491.jpg
+37069,Atashi no Bambi,https://cdn.myanimelist.net/images/manga/3/66817.jpg
+37563,Terra Formars,https://cdn.myanimelist.net/images/manga/5/67537.jpg
+37641,Junketsu Drop,https://cdn.myanimelist.net/images/manga/3/67795.jpg
+37707,Shigatsu wa Kimi no Uso,https://cdn.myanimelist.net/images/manga/3/102691.jpg
+38071,Spirit Circle,https://cdn.myanimelist.net/images/manga/2/161198.jpg
+39139,Apocalypse no Toride,https://cdn.myanimelist.net/images/manga/2/162053.jpg
+39281,Gun x Clover,https://cdn.myanimelist.net/images/manga/1/203272.jpg
+39291,Nijiiro Days,https://cdn.myanimelist.net/images/manga/3/192780.jpg
+39325,Boku dake ga Inai Machi,https://cdn.myanimelist.net/images/manga/1/172082.jpg
+39625,Kagerou Daze,https://cdn.myanimelist.net/images/manga/1/215824.jpg
+39679,Renai Shimasen ka?,https://cdn.myanimelist.net/images/manga/2/100777.jpg
+39839,In Bura!: Bishoujo Kyuuketsuki no Hazukashii Himitsu,https://cdn.myanimelist.net/images/manga/1/78873.jpg
+39883,Ansatsu Kyoushitsu,https://cdn.myanimelist.net/images/manga/3/243932.jpg
+41063,Akuma de Koi Shiyou,https://cdn.myanimelist.net/images/manga/1/90797.jpg
+41535,Ore ga Doutei wo Sutetara Shinu Ken ni Tsuite,https://cdn.myanimelist.net/images/manga/3/120667.jpg
+41733,"Gate: Jieitai Kanochi nite, Kaku Tatakaeri",https://cdn.myanimelist.net/images/manga/1/237379.jpg
+41949,Renai Boukun,https://cdn.myanimelist.net/images/manga/3/187769.jpg
+42451,Horimiya,https://cdn.myanimelist.net/images/manga/2/245008.jpg
+42545,Half & Half,https://cdn.myanimelist.net/images/manga/1/153889.jpg
+43415,Himegoto: Juukyuusai no Seifuku,https://cdn.myanimelist.net/images/manga/1/188905.jpg
+43661,Owari no Seraph,https://cdn.myanimelist.net/images/manga/1/137573.jpg
+43913,Feng Shen Ji,https://cdn.myanimelist.net/images/manga/2/177765.jpg
+43967,Isshuukan Friends.,https://cdn.myanimelist.net/images/manga/3/106681.jpg
+44155,Kimi wa Midara na Boku no Joou,https://cdn.myanimelist.net/images/manga/3/187708.jpg
+44307,Kakukaku Shikajika,https://cdn.myanimelist.net/images/manga/1/154270.jpg
+44485,Nanatsu no Taizai,https://cdn.myanimelist.net/images/manga/2/153111.jpg
+44489,Houseki no Kuni,https://cdn.myanimelist.net/images/manga/1/115443.jpg
+44677,Hana no Miyako de,https://cdn.myanimelist.net/images/manga/3/85993.jpg
+44743,Ito Junji Kyoufu Manga Collection - Flesh-Colored Horror,https://cdn.myanimelist.net/images/manga/3/79113.jpg
+44745,Ito Junji Kyoufu Manga Collection - Kao Dorobou,https://cdn.myanimelist.net/images/manga/3/79115.jpg
+44883,Akarui Sekai Keikaku,https://cdn.myanimelist.net/images/manga/3/188911.jpg
+45143,Kono Oto Tomare!,https://cdn.myanimelist.net/images/manga/3/116653.jpg
+45335,Kuroneko Kareshi no Asobikata,https://cdn.myanimelist.net/images/manga/2/189554.jpg
+45613,Pupa,https://cdn.myanimelist.net/images/manga/1/99057.jpg
+45757,Shokugeki no Souma,https://cdn.myanimelist.net/images/manga/1/115803.jpg
+45996,Hunter x Hunter: Kurapika Tsuioku-hen,https://cdn.myanimelist.net/images/manga/1/81390.jpg
+46282,Chikan Otoko,https://cdn.myanimelist.net/images/manga/4/155148.jpg
+46368,"Ore ga Ojousama Gakkou ni ""Shomin Sample"" Toshite Rachirareta Ken",https://cdn.myanimelist.net/images/manga/2/163658.jpg
+46646,Gosan no Heart,https://cdn.myanimelist.net/images/manga/2/88373.jpg
+46716,Masamune-kun no Revenge,https://cdn.myanimelist.net/images/manga/2/210326.jpg
+47102,Aho Girl,https://cdn.myanimelist.net/images/manga/3/184551.jpg
+47363,Kamisama no Iutoori 2,https://cdn.myanimelist.net/images/manga/1/187899.jpg
+48025,Magi: Sinbad no Bouken,https://cdn.myanimelist.net/images/manga/3/209406.jpg
+48151,World Trigger,https://cdn.myanimelist.net/images/manga/1/187850.jpg
+48347,Ballroom e Youkoso,https://cdn.myanimelist.net/images/manga/1/186664.jpg
+48649,Sakamoto desu ga?,https://cdn.myanimelist.net/images/manga/3/160912.jpg
+48881,Darwin's Game,https://cdn.myanimelist.net/images/manga/2/175477.jpg
+49347,Harapeko Usagi to Koisuru Ookami,https://cdn.myanimelist.net/images/manga/3/171572.jpg
+49361,Dragons Rioting,https://cdn.myanimelist.net/images/manga/3/188781.jpg
+49809,HajiOtsu.,https://cdn.myanimelist.net/images/manga/1/183079.jpg
+49865,Ajin,https://cdn.myanimelist.net/images/manga/3/87801.jpg
+49967,Okusama ga Seitokaichou!,https://cdn.myanimelist.net/images/manga/1/211231.jpg
+50027,About Death,https://cdn.myanimelist.net/images/manga/2/89293.jpg
+50133,Himouto! Umaru-chan,https://cdn.myanimelist.net/images/manga/2/204588.jpg
+50145,Citrus,https://cdn.myanimelist.net/images/manga/3/185905.jpg
+50217,Kamisama ga Uso wo Tsuku.,https://cdn.myanimelist.net/images/manga/1/143365.jpg
+50331,Kono Bijutsubu ni wa Mondai ga Aru!,https://cdn.myanimelist.net/images/manga/2/166160.jpg
+52435,Ma no Kakera,https://cdn.myanimelist.net/images/manga/2/138905.jpg
+52741,Hadi Girl,https://cdn.myanimelist.net/images/manga/2/92939.jpg
+54779,Watashi ga Motete Dousunda,https://cdn.myanimelist.net/images/manga/1/206834.jpg
+54817,Kanojo ni Naru Hi,https://cdn.myanimelist.net/images/manga/3/127733.jpg
+54897,Orange Marmalade,https://cdn.myanimelist.net/images/manga/1/95567.jpg
+54941,Hatsukoi Wazurai,https://cdn.myanimelist.net/images/manga/2/119581.jpg
+55163,Gakkougurashi!,https://cdn.myanimelist.net/images/manga/1/188787.jpg
+55403,Dame na Watashi ni Koishite Kudasai,https://cdn.myanimelist.net/images/manga/1/163578.jpg
+56165,Akame ga Kill! Zero,https://cdn.myanimelist.net/images/manga/3/130745.jpg
+56513,Fudatsuki no Kyouko-chan,https://cdn.myanimelist.net/images/manga/3/113429.jpg
+56529,Bungou Stray Dogs,https://cdn.myanimelist.net/images/manga/2/100769.jpg
+56565,Katakoi Densha,https://cdn.myanimelist.net/images/manga/3/126101.jpg
+56805,Koe no Katachi,https://cdn.myanimelist.net/images/manga/1/120529.jpg
+56857,Ten Count,https://cdn.myanimelist.net/images/manga/2/159479.jpg
+57015,Jitsu wa Watashi wa,https://cdn.myanimelist.net/images/manga/3/191399.jpg
+57239,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka,https://cdn.myanimelist.net/images/manga/2/121555.jpg
+57359,Futari no Renai Shoka,https://cdn.myanimelist.net/images/manga/3/99799.jpg
+57545,Shinigami-sama to 4-nin no Kanojo,https://cdn.myanimelist.net/images/manga/3/107525.jpg
+57765,UQ Holder!,https://cdn.myanimelist.net/images/manga/1/112577.jpg
+57795,Shingeki no Kyojin: Before the Fall,https://cdn.myanimelist.net/images/manga/2/128683.jpg
+58007,Shingeki no Kyojin: Kuinaki Sentaku,https://cdn.myanimelist.net/images/manga/1/121101.jpg
+58141,Machida-kun no Sekai,https://cdn.myanimelist.net/images/manga/3/168062.jpg
+58313,ib: Instant Bullet,https://cdn.myanimelist.net/images/manga/3/164693.jpg
+60095,Fujiyama-san wa Shishunki,https://cdn.myanimelist.net/images/manga/1/103925.jpg
+60783,Mob Psycho 100,https://cdn.myanimelist.net/images/manga/2/204842.jpg
+61027,Giganto Makhia,https://cdn.myanimelist.net/images/manga/3/128987.jpg
+61189,Mahoutsukai no Yome,https://cdn.myanimelist.net/images/manga/3/121263.jpg
+62887,All You Need Is Kill,https://cdn.myanimelist.net/images/manga/1/128447.jpg
+63499,Choco Strawberry Vanilla,https://cdn.myanimelist.net/images/manga/3/119601.jpg
+63579,Aizawa-san Zoushoku,https://cdn.myanimelist.net/images/manga/1/188837.jpg
+63845,Tenkuu Shinpan,https://cdn.myanimelist.net/images/manga/3/128611.jpg
+63849,Ana Satsujin,https://cdn.myanimelist.net/images/manga/2/128593.jpg
+65647,Green Worldz,https://cdn.myanimelist.net/images/manga/1/128603.jpg
+65685,Real Account,https://cdn.myanimelist.net/images/manga/3/147381.jpg
+66057,Blue Sky Complex,https://cdn.myanimelist.net/images/manga/2/141127.jpg
+66685,Kekkon Yubiwa Monogatari,https://cdn.myanimelist.net/images/manga/1/188970.jpg
+67019,Fuuka,https://cdn.myanimelist.net/images/manga/2/186209.jpg
+67615,Tate no Yuusha no Nariagari,https://cdn.myanimelist.net/images/manga/2/130759.jpg
+67645,Namaikizakari.,https://cdn.myanimelist.net/images/manga/1/128825.jpg
+68831,Caste Heaven,https://cdn.myanimelist.net/images/manga/3/158991.jpg
+69903,Fairy Tail Zerø,https://cdn.myanimelist.net/images/manga/1/167384.jpg
+70061,Rakudai Kishi no Cavalry,https://cdn.myanimelist.net/images/manga/2/145153.jpg
+70107,Hana to Usagi,https://cdn.myanimelist.net/images/manga/1/120117.jpg
+70251,Koi no Kamisama,https://cdn.myanimelist.net/images/manga/3/149631.jpg
+70259,Mushoku Tensei: Isekai Ittara Honki Dasu,https://cdn.myanimelist.net/images/manga/2/181049.jpg
+70345,Grand Blue,https://cdn.myanimelist.net/images/manga/2/166124.jpg
+70941,Domestic na Kanojo,https://cdn.myanimelist.net/images/manga/2/196863.jpg
+72007,Bocchi na Bokura no Renai Jijou,https://cdn.myanimelist.net/images/manga/2/188880.jpg
+72025,Kengan Ashura,https://cdn.myanimelist.net/images/manga/1/210808.jpg
+72467,Shoujo Shuumatsu Ryokou,https://cdn.myanimelist.net/images/manga/1/185918.jpg
+72949,Harumatsu Bokura,https://cdn.myanimelist.net/images/manga/1/170630.jpg
+73603,Kakegurui,https://cdn.myanimelist.net/images/manga/1/142175.jpg
+74283,Tsuyokute New Saga,https://cdn.myanimelist.net/images/manga/3/186491.jpg
+75989,Boku no Hero Academia,https://cdn.myanimelist.net/images/manga/1/209370.jpg
+75991,Hare-Kon.,https://cdn.myanimelist.net/images/manga/1/188794.jpg
+77637,Helck,https://cdn.myanimelist.net/images/manga/3/138699.jpg
+77815,"Tokyo Ghoul: ""Jack""",https://cdn.myanimelist.net/images/manga/3/134713.jpg
+77827,Watari-kun no xx ga Houkai Sunzen,https://cdn.myanimelist.net/images/manga/2/158603.jpg
+78065,Koi to Uso,https://cdn.myanimelist.net/images/manga/2/148055.jpg
+78523,ReLIFE,https://cdn.myanimelist.net/images/manga/2/171573.jpg
+78537,Karakai Jouzu no Takagi-san,https://cdn.myanimelist.net/images/manga/3/136045.jpg
+78943,Dead Tube,https://cdn.myanimelist.net/images/manga/3/186914.jpg
+79085,Given,https://cdn.myanimelist.net/images/manga/1/172497.jpg
+80119,Kobayashi-san Chi no Maid Dragon,https://cdn.myanimelist.net/images/manga/3/138919.jpg
+80907,Watashi no Ookami-kun,https://cdn.myanimelist.net/images/manga/2/168568.jpg
+81117,Tokyo Ghoul:re,https://cdn.myanimelist.net/images/manga/3/145997.jpg
+81667,Overlord,https://cdn.myanimelist.net/images/manga/3/161407.jpg
+81681,Plunderer,https://cdn.myanimelist.net/images/manga/3/161356.jpg
+82295,Fukushuu Kyoushitsu,https://cdn.myanimelist.net/images/manga/3/142809.jpg
+82399,Konjiki no Word Master: Yuusha Yonin ni Makikomareta Unique Cheat,https://cdn.myanimelist.net/images/manga/2/154446.jpg
+82427,The New Gate,https://cdn.myanimelist.net/images/manga/3/183226.jpg
+83021,Death March kara Hajimaru Isekai Kyousoukyoku,https://cdn.myanimelist.net/images/manga/1/154541.jpg
+84255,Hidamari ga Kikoeru,https://cdn.myanimelist.net/images/manga/1/186753.jpg
+85173,Happiness,https://cdn.myanimelist.net/images/manga/2/161562.jpg
+85781,Dungeon Meshi,https://cdn.myanimelist.net/images/manga/3/148949.jpg
+85802,Ookami Shounen wa Kyou mo Uso wo Kasaneru,https://cdn.myanimelist.net/images/manga/3/148976.jpg
+85941,Yuusha ga Shinda!: Murabito no Ore ga Hotta Otoshiana ni Yuusha ga Ochita Kekka.,https://cdn.myanimelist.net/images/manga/3/188923.jpg
+85968,Golden Kamuy,https://cdn.myanimelist.net/images/manga/3/149257.jpg
+86337,Black Clover,https://cdn.myanimelist.net/images/manga/2/166254.jpg
+87609,Tensei shitara Slime Datta Ken,https://cdn.myanimelist.net/images/manga/3/167639.jpg
+87813,Takane to Hana,https://cdn.myanimelist.net/images/manga/1/152773.jpg
+87866,Naruto Gaiden: Nanadaime Hokage to Akairo no Hanatsuzuki,https://cdn.myanimelist.net/images/manga/2/161762.jpg
+88660,Yagate Kimi ni Naru,https://cdn.myanimelist.net/images/manga/1/232311.jpg
+88991,Skill of Lure,https://cdn.myanimelist.net/images/manga/2/155593.jpg
+89087,Wotaku ni Koi wa Muzukashii,https://cdn.myanimelist.net/images/manga/3/155740.jpg
+89562,Tsubaki-chou Lonely Planet,https://cdn.myanimelist.net/images/manga/3/164273.jpg
+89703,Isekai Tensei Soudouki,https://cdn.myanimelist.net/images/manga/1/186481.jpg
+89734,Dragon Ball Super,https://cdn.myanimelist.net/images/manga/2/176933.jpg
+89737,Maou no Hajimekata the Comic,https://cdn.myanimelist.net/images/manga/3/187041.jpg
+90117,Tsuki ga Michibiku Isekai Douchuu,https://cdn.myanimelist.net/images/manga/2/183227.jpg
+90125,Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen,https://cdn.myanimelist.net/images/manga/3/188896.jpg
+91037,Enen no Shouboutai,https://cdn.myanimelist.net/images/manga/3/178996.jpg
+91514,Kishuku Gakkou no Juliet,https://cdn.myanimelist.net/images/manga/3/188967.jpg
+91714,Isekai Maou to Shoukan Shoujo no Dorei Majutsu,https://cdn.myanimelist.net/images/manga/3/200741.jpg
+91941,Made in Abyss,https://cdn.myanimelist.net/images/manga/3/161645.jpg
+92149,Tomo-chan wa Onnanoko!,https://cdn.myanimelist.net/images/manga/3/169710.jpg
+92160,Happy Sugar Life,https://cdn.myanimelist.net/images/manga/1/165713.jpg
+93516,SQ: Begin W/Your Name!,https://cdn.myanimelist.net/images/manga/3/165495.jpg
+93519,Gleipnir,https://cdn.myanimelist.net/images/manga/3/174385.jpg
+93640,Hatsukoi Zombie,https://cdn.myanimelist.net/images/manga/2/188797.jpg
+93677,Gantz:G,https://cdn.myanimelist.net/images/manga/3/192968.jpg
+93695,Ganbare! Nakamura-kun!!,https://cdn.myanimelist.net/images/manga/2/196622.jpg
+93753,Vanitas no Karte,https://cdn.myanimelist.net/images/manga/2/176009.jpg
+95210,Boruto: Naruto Next Generations,https://cdn.myanimelist.net/images/manga/3/181968.jpg
+95353,"Kumo desu ga, Nani ka?",https://cdn.myanimelist.net/images/manga/3/180081.jpg
+96179,Criminale!,https://cdn.myanimelist.net/images/manga/3/188830.jpg
+96528,Arifureta Shokugyou de Sekai Saikyou,https://cdn.myanimelist.net/images/manga/3/186402.jpg
+96582,Yuragi-sou no Yuuna-san,https://cdn.myanimelist.net/images/manga/3/179022.jpg
+96792,Kimetsu no Yaiba,https://cdn.myanimelist.net/images/manga/3/179023.jpg
+97092,Jackass!,https://cdn.myanimelist.net/images/manga/3/181602.jpg
+97244,Shimanami Tasogare,https://cdn.myanimelist.net/images/manga/2/174018.jpg
+97320,Prison Lab,https://cdn.myanimelist.net/images/manga/1/173984.jpg
+97579,Koushaku Reijou no Tashinami,https://cdn.myanimelist.net/images/manga/1/183410.jpg
+97760,Ane Naru Mono,https://cdn.myanimelist.net/images/manga/1/188812.jpg
+98270,Fire Punch,https://cdn.myanimelist.net/images/manga/2/180430.jpg
+98712,Hiraheishi wa Kako wo Yumemiru,https://cdn.myanimelist.net/images/manga/1/191228.jpg
+98752,Shuumatsu no Harem,https://cdn.myanimelist.net/images/manga/3/183037.jpg
+99007,"Komi-san wa, Comyushou desu.",https://cdn.myanimelist.net/images/manga/3/188962.jpg
+99314,Kimi no Na wa.,https://cdn.myanimelist.net/images/manga/1/182270.jpg
+99377,Kenja no Mago,https://cdn.myanimelist.net/images/manga/3/186273.jpg
+99969,Sabishisugite Lesbian Fuuzoku ni Ikimashita Report,https://cdn.myanimelist.net/images/manga/2/180846.jpg
+100128,Yakusoku no Neverland,https://cdn.myanimelist.net/images/manga/3/186922.jpg
+100274,Nande Koko ni Sensei ga!?,https://cdn.myanimelist.net/images/manga/3/189194.jpg
+100448,"Jumyou wo Kaitotte Moratta. Ichinen ni Tsuki, Ichimanen de.",https://cdn.myanimelist.net/images/manga/3/197880.jpg
+102343,Fumetsu no Anata e,https://cdn.myanimelist.net/images/manga/3/189781.jpg
+102653,Nidome no Jinsei wo Isekai de,https://cdn.myanimelist.net/images/manga/1/186026.jpg
+102997,"Saotome Senshu, Hitakakusu",https://cdn.myanimelist.net/images/manga/1/189746.jpg
+103694,Gal Gohan,https://cdn.myanimelist.net/images/manga/1/197704.jpg
+103701,Beastars,https://cdn.myanimelist.net/images/manga/2/189832.jpg
+103851,5-toubun no Hanayome,https://cdn.myanimelist.net/images/manga/2/201572.jpg
+103890,Bokutachi wa Benkyou ga Dekinai,https://cdn.myanimelist.net/images/manga/3/197080.jpg
+103897,Dr. Stone,https://cdn.myanimelist.net/images/manga/1/197883.jpg
+103939,Aharen-san wa Hakarenai,https://cdn.myanimelist.net/images/manga/3/198938.jpg
+103942,Ao no Flag,https://cdn.myanimelist.net/images/manga/3/194070.jpg
+104241,Mairimashita! Iruma-kun,https://cdn.myanimelist.net/images/manga/1/198066.jpg
+104271,Chi no Wadachi,https://cdn.myanimelist.net/images/manga/1/200350.jpg
+104314,Jagaaaaaan,https://cdn.myanimelist.net/images/manga/3/197327.jpg
+104538,Kimi no Suizou wo Tabetai,https://cdn.myanimelist.net/images/manga/2/191611.jpg
+104565,Tokyo卍Revengers,https://cdn.myanimelist.net/images/manga/3/196272.jpg
+105029,Parallel Paradise,https://cdn.myanimelist.net/images/manga/3/198780.jpg
+105084,Jibaku Shounen Hanako-kun,https://cdn.myanimelist.net/images/manga/3/192551.jpg
+105328,"Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu",https://cdn.myanimelist.net/images/manga/3/199736.jpg
+105430,Senryuu Shoujo,https://cdn.myanimelist.net/images/manga/3/194981.jpg
+105454,Real no Heroine wa Irimasen!,https://cdn.myanimelist.net/images/manga/1/197238.jpg
+106785,Lv999 no Murabito,https://cdn.myanimelist.net/images/manga/1/204864.jpg
+107562,Kusuriya no Hitorigoto,https://cdn.myanimelist.net/images/manga/3/201154.jpg
+107931,Blue Period,https://cdn.myanimelist.net/images/manga/2/204827.jpg
+108187,Karakai Jouzu no (Moto) Takagi-san,https://cdn.myanimelist.net/images/manga/2/204600.jpg
+108197,Kaifuku Jutsushi no Yarinaoshi,https://cdn.myanimelist.net/images/manga/1/208529.jpg
+108407,"Kanojo, Okarishimasu",https://cdn.myanimelist.net/images/manga/3/201707.jpg
+108461,Fairy Tail S,https://cdn.myanimelist.net/images/manga/2/198591.jpg
+109608,Goblin Slayer Gaiden: Year One,https://cdn.myanimelist.net/images/manga/1/207520.jpg
+109696,Isekai Kenkokuki,https://cdn.myanimelist.net/images/manga/2/209371.jpg
+110050,Boku no Kanojo wa Saikou desu!,https://cdn.myanimelist.net/images/manga/3/201607.jpg
+110460,Isekai Nonbiri Nouka,https://cdn.myanimelist.net/images/manga/3/207454.jpg
+110485,Shuumatsu no Walküre,https://cdn.myanimelist.net/images/manga/3/209957.jpg
+110737,"Ijiranaide, Nagatoro-san",https://cdn.myanimelist.net/images/manga/3/207460.jpg
+111202,Lookism,https://cdn.myanimelist.net/images/manga/2/208866.jpg
+111357,Yancha Gal no Anjou-san,https://cdn.myanimelist.net/images/manga/3/207704.jpg
+111621,Pashiri na Boku to Koisuru Banchou-san,https://cdn.myanimelist.net/images/manga/2/210692.jpg
+111996,The God of High School,https://cdn.myanimelist.net/images/manga/1/205814.jpg
+112589,Tonikaku Kawaii,https://cdn.myanimelist.net/images/manga/3/209955.jpg
+112922,Gokushufudou,https://cdn.myanimelist.net/images/manga/3/210716.jpg
+113138,Jujutsu Kaisen,https://cdn.myanimelist.net/images/manga/3/210341.jpg
+113169,"Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?",https://cdn.myanimelist.net/images/manga/2/212195.jpg
+113626,Imamade Ichido mo Onnaatsukai sareta Koto ga Nai Onna Kishi wo Onnaatsukai suru Manga,https://cdn.myanimelist.net/images/manga/1/215499.jpg
+113958,Boushoku no Berserk: Ore dake Level to Iu Gainen wo Toppa suru the Comic,https://cdn.myanimelist.net/images/manga/3/212091.jpg
+114417,Uzaki-chan wa Asobitai!,https://cdn.myanimelist.net/images/manga/3/212607.jpg
+114548,Edens Zero,https://cdn.myanimelist.net/images/manga/3/212094.jpg
+114701,Fairy Tail: 100 Years Quest,https://cdn.myanimelist.net/images/manga/1/213604.jpg
+114745,Blue Lock,https://cdn.myanimelist.net/images/manga/5/213340.jpg
+115710,Jujutsu Kaisen 0: Tokyo Toritsu Jujutsu Koutou Senmon Gakkou,https://cdn.myanimelist.net/images/manga/2/219336.jpg
+115848,"Fuufu Ijou, Koibito Miman.",https://cdn.myanimelist.net/images/manga/1/215132.jpg
+116766,Hige wo Soru. Soshite Joshikousei wo Hirou.,https://cdn.myanimelist.net/images/manga/1/219340.jpg
+116778,Chainsaw Man,https://cdn.myanimelist.net/images/manga/3/216464.jpg
+116790,Mieruko-chan,https://cdn.myanimelist.net/images/manga/3/217799.jpg
+116808,Giji Harem,https://cdn.myanimelist.net/images/manga/3/219464.jpg
+116880,Mato Seihei no Slave,https://cdn.myanimelist.net/images/manga/2/219454.jpg
+118026,"Fukushuu wo Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou suru",https://cdn.myanimelist.net/images/manga/3/227733.jpg
+118196,Kawaii dake ja Nai Shikimori-san,https://cdn.myanimelist.net/images/manga/2/219606.jpg
+118459,Bakemono Recchan/Kinoko Takenoko: Asano Inio Tanpenshuu,https://cdn.myanimelist.net/images/manga/1/216164.jpg
+119022,Kage no Jitsuryokusha ni Naritakute!,https://cdn.myanimelist.net/images/manga/3/227280.jpg
+119161,Spy x Family,https://cdn.myanimelist.net/images/manga/3/219741.jpg
+121079,Killing Stalking,https://cdn.myanimelist.net/images/manga/1/220586.jpg
+121269,Who Made Me a Princess,https://cdn.myanimelist.net/images/manga/1/222587.jpg
+121496,Solo Leveling,https://cdn.myanimelist.net/images/manga/3/222295.jpg
+122353,Kaette kudasai! Akutsu-san,https://cdn.myanimelist.net/images/manga/3/232084.jpg
+122663,Tower of God,https://cdn.myanimelist.net/images/manga/2/223694.jpg
+123602,Kakkou no Iinazuke,https://cdn.myanimelist.net/images/manga/5/233993.jpg
+123681,Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo,https://cdn.myanimelist.net/images/manga/2/229606.jpg
+124085,Mashle,https://cdn.myanimelist.net/images/manga/1/230705.jpg
+124845,Sweet Home,https://cdn.myanimelist.net/images/manga/3/227600.jpg
+126146,Oshi no Ko,https://cdn.myanimelist.net/images/manga/3/233991.jpg
+126287,Sousou no Frieren,https://cdn.myanimelist.net/images/manga/3/232121.jpg
+126699,Shounen no Abyss,https://cdn.myanimelist.net/images/manga/2/232167.jpg
+77,Alice 19th,https://cdn.myanimelist.net/images/manga/2/5392.jpg
+97,DearS,https://cdn.myanimelist.net/images/manga/1/173815.jpg
+651,Kaze no Tani no Nausicaä,https://cdn.myanimelist.net/images/manga/3/156624.jpg
+676,InuYasha,https://cdn.myanimelist.net/images/manga/1/32468.jpg
+768,Gunnm,https://cdn.myanimelist.net/images/manga/1/145619.jpg
+923,Kanata kara,https://cdn.myanimelist.net/images/manga/1/185863.jpg
+997,Parfait Tic!,https://cdn.myanimelist.net/images/manga/2/191816.jpg
+1373,Nijigahara Holograph,https://cdn.myanimelist.net/images/manga/2/67543.jpg
+1458,Golden Boy,https://cdn.myanimelist.net/images/manga/3/53253.jpg
+4329,Bokutachi wa Shitte Shimatta,https://cdn.myanimelist.net/images/manga/3/6266.jpg
+6097,Monster Hunter Orage,https://cdn.myanimelist.net/images/manga/2/193452.jpg
+6624,Zettai Heiwa Daisakusen,https://cdn.myanimelist.net/images/manga/3/170640.jpg
+13723,Sidonia no Kishi,https://cdn.myanimelist.net/images/manga/1/141085.jpg
+14841,Durarara!!,https://cdn.myanimelist.net/images/manga/1/202669.jpg
+16761,Boy of the Female Wolf,https://cdn.myanimelist.net/images/manga/3/29182.jpg
+17192,Ito Junji no Neko Nikki: Yon & Mu,https://cdn.myanimelist.net/images/manga/1/182059.jpg
+72303,Douluo Dalu,https://cdn.myanimelist.net/images/manga/1/159277.jpg
+79193,Doupo Cangqiong,https://cdn.myanimelist.net/images/manga/3/226182.jpg
+101711,Mousou Telepathy,https://cdn.myanimelist.net/images/manga/3/187031.jpg
+112121,Kuro no Shoukanshi,https://cdn.myanimelist.net/images/manga/2/210357.jpg
+112268,Sono Bisque Doll wa Koi wo Suru,https://cdn.myanimelist.net/images/manga/2/215054.jpg
+127907,Kaijuu 8-gou,https://cdn.myanimelist.net/images/manga/1/237941.jpg
+10573,Sekaiichi Hatsukoi: Onodera Ritsu no Baai,https://cdn.myanimelist.net/images/manga/4/14369.jpg
+40175,Mahou Shoujo of the End,https://cdn.myanimelist.net/images/manga/1/156267.jpg
+98938,Hajimete no Gal,https://cdn.myanimelist.net/images/manga/2/178631.jpg
