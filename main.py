@@ -2,7 +2,7 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 from load_data import merge_user_rating, load_rating_data
-from cluster import kmeans_clustering, dbscan_clustering, merge_cluster
+from cluster import kmeans_clustering, dbscan_clustering
 from predict import find_neighbor, predict
 import pandas as pd
 import numpy as np
