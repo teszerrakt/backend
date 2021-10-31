@@ -64,11 +64,12 @@ def kmeans():
     for item in item_to_predict:
         print('Predicting {}'.format(item))
         prediction = predict("KAPPA_NEW_USER", item, ratings_cluster, cluster_centroids, verbose=False) 
-        title = comic_data.loc[comic_data['comic_id'] == item].iat[0, 1]
-        image_url = comic_data.loc[comic_data['comic_id'] == item].iat[0, 2]
-        prediction['title'] = title
-        prediction['image_url'] = image_url
-        prediction_list.append(prediction)
+        if (prediction['rating'] >= 3):
+            title = comic_data.loc[comic_data['comic_id'] == item].iat[0, 1]
+            image_url = comic_data.loc[comic_data['comic_id'] == item].iat[0, 2]
+            prediction['title'] = title
+            prediction['image_url'] = image_url
+            prediction_list.append(prediction)
     # Sort the rating by descending order
     prediction_list = sorted(prediction_list, key = lambda i: i['rating'], reverse = True)
     end = timeit.default_timer()
@@ -101,11 +102,12 @@ def dbscan():
     for item in item_to_predict:
         print('Predicting {}'.format(item))
         prediction = predict("KAPPA_NEW_USER", item, ratings_cluster, centroids=None, verbose=False) 
-        title = comic_data.loc[comic_data['comic_id'] == item].iat[0, 1]
-        image_url = comic_data.loc[comic_data['comic_id'] == item].iat[0, 2]
-        prediction['title'] = title
-        prediction['image_url'] = image_url
-        prediction_list.append(prediction)
+        if (prediction['rating'] >= 3):
+            title = comic_data.loc[comic_data['comic_id'] == item].iat[0, 1]
+            image_url = comic_data.loc[comic_data['comic_id'] == item].iat[0, 2]
+            prediction['title'] = title
+            prediction['image_url'] = image_url
+            prediction_list.append(prediction)
     # Sort the rating by descending order
     prediction_list = sorted(prediction_list, key = lambda i: i['rating'], reverse = True)
     end = timeit.default_timer()
