@@ -3,7 +3,7 @@
 This is the RESTful API for Kappa built using Flask. Kappa is a Cluster-based Comic Recommender System.
 
 ## Demo
-You can try the full application **[here](kappa.zsyihab.tech)**, please remember that you need to input a minimum of five comics.
+You can try the full application **[here](https://kappa.zsyihab.tech)**, please remember that you need to input a minimum of five comics.
 
 ## Container
 There is a Docker images available to grab.  
