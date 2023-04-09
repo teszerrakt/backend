@@ -1,6 +1,6 @@
+flask
+gunicorn
 pandas
 numpy
-sklearn
-flask
+scikit-learn
 flask-cors
-pyopenssl

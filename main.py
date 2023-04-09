@@ -1,5 +1,5 @@
 # KAPPA BACKEND
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, Response
 from flask_cors import CORS
 from load_data import merge_user_rating, load_rating_data
 from cluster import kmeans_clustering, dbscan_clustering
@@ -41,6 +41,10 @@ def find_nearest_unrated(user_input, ratings_cluster):
 @app.route('/', methods=['GET'])
 def index():
     return "WELCOME TO KAPPA"
+
+@app.route("/health")
+def health():
+    return Response("OK", status=200)
 
 @app.route('/api/kmeans', methods=['POST'])
 def kmeans():
@@ -116,6 +120,3 @@ def dbscan():
     print('Time Elapsed: {}'.format(time))
 
     return jsonify(prediction_list)
-
-if __name__ == "__main__":
-    app.run(host='0.0.0.0', port=80, ssl_context='adhoc')
